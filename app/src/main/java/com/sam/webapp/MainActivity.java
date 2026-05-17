@@ -1,4 +1,4 @@
-package com.sam.webapp;
+package com.cinesubz.movies;
 
 import android.Manifest;
 import android.app.DownloadManager;
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.share){
             Intent i = new Intent(Intent.ACTION_SEND);
             i.setType("text/plain");
-            i.putExtra(Intent.EXTRA_TEXT, "Download my new webview app https://play.google.com/store/apps/details?id=com.sam.webapp");
+            i.putExtra(Intent.EXTRA_TEXT, "Download my new webview app https://play.google.com/store/apps/details?id=com.cinesubz.movies");
             startActivity(Intent.createChooser(i,"Share Via"));
         }
         return super.onOptionsItemSelected(item);

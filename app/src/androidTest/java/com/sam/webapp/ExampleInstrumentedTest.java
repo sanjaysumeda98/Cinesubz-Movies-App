@@ -1,4 +1,4 @@
-package com.sam.webapp;
+package com.cinesubz.movies;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.sam.webapp", appContext.getPackageName());
+        assertEquals("com.cinesubz.movies", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.sam.webapp;
+package com.cinesubz.movies;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.sam.webapp;
+package com.cinesubz.movies;
 
 import org.junit.Test;
 
