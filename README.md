@@ -1,4 +1,4 @@
-# WebApp  Android WebView App
+# Cinesubz Movies  Android WebView App
 ![Android CI](https://github.com/diwanshu-lab/Android-Webview/workflows/Android%20CI/badge.svg)
 ![GitHub](https://img.shields.io/github/license/diwanshu-lab/Android-Webview)
 ![GitHub repo size](https://img.shields.io/github/repo-size/diwanshu-lab/Android-Webview)
@@ -6,7 +6,7 @@
 
 A simple app to convert websites to a native android app.
 
-**WebApp** is an android application which uses web view component for displaying content. This app provides many of customization options and features. From monetisation to colour customization to caching web page. 
+**Cinesubz Movies** is an android application which uses web view component for displaying content. This app provides many of customization options and features. From monetisation to colour customization to caching web page. 
 
 It has **7 different color themes** you can choose which you want.
 

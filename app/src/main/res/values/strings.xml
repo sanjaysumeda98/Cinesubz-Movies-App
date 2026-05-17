@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WebApp</string>
+    <string name="app_name">Cinesubz Movies</string>
     <string name="adUnit">ca-app-pub-3940256099942544/6300978111</string>
     <string name="navigation_drawer_open" />
     <string name="navigation_drawer_close" />
