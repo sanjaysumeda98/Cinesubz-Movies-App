@@ -1,5 +1,17 @@
 apply plugin: 'com.android.application'
 
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }  // Add this line
+    }
+}
+dependencies {
+    // ... other dependencies ...
+    implementation 'com.github.Edsuns.AdblockAndroid:ad-filter:1.0'
+}
+
 android {
     compileSdkVersion 28
     
